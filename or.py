@@ -7,7 +7,7 @@ import os
 
 API_TOKEN = '7907926145:AAHvHgm4z1CF4xHtCV6LAt04Wyy0LY2rNv8'
 ADMIN_ID = 6852738257
-KARTA = '9860356610242188'
+KARTA = '986080317408047'
 CHANNEL_LINK = "https://t.me/Sardor_ludoman"
 WEBHOOK_URL = 'https://or1-n29m.onrender.com'  # ← /webhook qilib qo‘yildi
 
